@@ -1,4 +1,4 @@
-# Go Lang 
+# GoLang 
 
 ### hello world
 
